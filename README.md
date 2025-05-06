@@ -24,3 +24,23 @@ Spam detection plays a critical role in digital communication. Our solution focu
   - Provide feedback to update word frequencies
 
 ---
+
+
+## 🧱 Core Components
+
+- **ChainingHashMap** and **OpenAddressingHashMap** for flexible and efficient frequency storage.
+- **Probabilistic scoring function** to calculate spam likelihood based on word usage.
+- **GTK GUI** for user interaction, highlighting:
+  - Email input
+  - One-click spam/ham classification
+  - Feedback integration to improve future predictions
+
+---
+
+## 🖼️ GUI Features
+
+- 🔍 **Email Classification**: Enter or paste email content to classify.
+- 🧠 **Adaptive Learning**: Mark classification as correct or incorrect to update training data.
+- 🖍️ **Visual Word-Level Highlighting** *(optional)*: See which words contributed most to the score.
+
+---
