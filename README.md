@@ -18,6 +18,7 @@ Spam detection plays a critical role in digital communication. Our solution focu
   - **Open Addressing Hash Map**: Uses linear probing for efficient lookups.
 - 🧮 **Spam Score Computation**:
   - The spam score of an email is calculated as the average of the individual spam probabilities of its words.
+    ![Spam score](Picture2.png)
 - 🖥️ **GTK GUI Interface**:
   - Enter email content
   - Classify as spam or ham
@@ -42,6 +43,6 @@ Spam detection plays a critical role in digital communication. Our solution focu
 
 - 🔍 **Email Classification**: Enter or paste email content to classify.
 - 🧠 **Adaptive Learning**: Mark classification as correct or incorrect to update training data.
-- 🖍️ **Visual Word-Level Highlighting** *(optional)*: See which words contributed most to the score.
-
+- 🖍️ **Visual Word-Level Highlighting** : See which words contributed most to the score.
+![Adaptive Learning](Picture1.png)
 ---
