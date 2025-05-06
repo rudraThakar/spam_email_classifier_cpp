@@ -34,6 +34,7 @@ Spam detection plays a critical role in digital communication. Our solution focu
   - Email input
   - One-click spam/ham classification
   - Feedback integration to improve future predictions
+![GUI Screenshot](Picture3.png)
 
 ---
 
